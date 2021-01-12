@@ -1,1 +1,1 @@
-# Jason_INFO5731_Spring2021
+# Code and assignments for UNT INFO 5731 Spring 2021
